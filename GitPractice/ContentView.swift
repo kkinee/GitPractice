@@ -17,6 +17,7 @@ struct ContentView: View {
         }
         HStack {
             Text("123")
+            Text("456")
         }
     }
 }
