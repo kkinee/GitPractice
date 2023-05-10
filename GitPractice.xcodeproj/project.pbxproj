@@ -14,6 +14,7 @@
 		63868BAA2A0B283B00395CD7 /* GitPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63868BA92A0B283B00395CD7 /* GitPracticeTests.swift */; };
 		63868BB42A0B283C00395CD7 /* GitPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63868BB32A0B283C00395CD7 /* GitPracticeUITests.swift */; };
 		63868BB62A0B283C00395CD7 /* GitPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63868BB52A0B283C00395CD7 /* GitPracticeUITestsLaunchTests.swift */; };
+		6F1538D12A0B3E9100B5FDBB /* SwiftUIView-Harang.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F1538D02A0B3E9100B5FDBB /* SwiftUIView-Harang.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		63868BAF2A0B283C00395CD7 /* GitPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63868BB32A0B283C00395CD7 /* GitPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitPracticeUITests.swift; sourceTree = "<group>"; };
 		63868BB52A0B283C00395CD7 /* GitPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6F1538D02A0B3E9100B5FDBB /* SwiftUIView-Harang.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIView-Harang.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				63868B9A2A0B283900395CD7 /* ContentView.swift */,
 				63868B9C2A0B283B00395CD7 /* Assets.xcassets */,
 				63868B9E2A0B283B00395CD7 /* Preview Content */,
+				6F1538D02A0B3E9100B5FDBB /* SwiftUIView-Harang.swift */,
 			);
 			path = GitPractice;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63868B9B2A0B283900395CD7 /* ContentView.swift in Sources */,
+				6F1538D12A0B3E9100B5FDBB /* SwiftUIView-Harang.swift in Sources */,
 				63868B992A0B283900395CD7 /* GitPracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
