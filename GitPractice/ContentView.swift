@@ -15,6 +15,9 @@ struct ContentView: View {
         Text("Hello kine!")
             .padding()
         }
+        HStack {
+            Text("123")
+        }
     }
 }
 
